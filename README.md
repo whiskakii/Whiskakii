@@ -1,7 +1,7 @@
 # 👋 Hey! My name is Apostolis but many people know me as Whiskakii 
 
 <li>🌍 I’m based in Greece</li>
-<li>👑 I’m the **Founder** of Orion Network</li>
+<li>👑 I’m the Founder of Orion Network</li>
 <li>🤝 I’m looking for FiveM developers to work with me and my team</li>
 <li>💬 Dms are open fell free to contact me!</li>
 
